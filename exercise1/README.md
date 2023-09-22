@@ -8,6 +8,7 @@ Inside the 'code' folder, you will find source code and header files, along with
 
 ```bash
 make
+```bash
 
 This command will generate the executable 'my_program.x'.
 
