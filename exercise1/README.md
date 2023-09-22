@@ -6,9 +6,7 @@ This folder contains the source code and results for a hybrid parallel version o
 
 Inside the 'code' folder, you will find source code and header files, along with a makefile for building the program. To compile the program, ensure that MPI is installed and relevant modules are loaded, and then run the following command:
 
-```bash
-make
-```bash
+``make``
 
 This command will generate the executable 'my_program.x'.
 
