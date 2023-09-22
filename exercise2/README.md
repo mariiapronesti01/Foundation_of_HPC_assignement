@@ -1,4 +1,4 @@
-This folder contains data used for comparing three distinct mathematical libraries: BLIS, OpenBLAS, and MKL. Measurements were conducted on both EPYC and THIN nodes, with each set of measurements repeated five times.
+This folder contains data used for comparing three distinct mathematical libraries: **BLIS**, **OpenBLAS**, and **MKL**. Measurements were conducted on both EPYC and THIN nodes of the *Orfeo* cluster at AreaSciencePark, with each set of measurements repeated five times.
 
 ## Folder Structure
 
